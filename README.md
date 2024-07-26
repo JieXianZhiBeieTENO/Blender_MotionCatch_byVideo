@@ -1,2 +1,3 @@
-# blender_Motion_catch_byVideo
+# Blender_MotionCatch_byVideo
+Blender通过视频生成的动捕
 教程：https://www.bilibili.com/video/BV1Vm4y177ex
